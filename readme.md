@@ -2,3 +2,4 @@
 
 stay foolish stay hungry.
 
+Creating a new branch is quick AND simple.
